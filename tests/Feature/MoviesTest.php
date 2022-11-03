@@ -9,7 +9,7 @@ use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Tests\TestCase;
 
-class ButtonComponentTest extends TestCase
+class MoviesTest extends TestCase
 {
     use DatabaseTransactions;
 
